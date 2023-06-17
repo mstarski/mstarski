@@ -12,6 +12,12 @@ I'm also learning a bit of cloud ☁️ development right now.
 
 Few of my personal projects are listed in tiles below so feel free to check them out ✨.
 
+⚡ Few facts:
+- Vim enjoyer
+- 🐈 owner
+- I speak a bit of Japanese
+- I live in Poznań, Poland
+
 <!--
 **mstarski/mstarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
