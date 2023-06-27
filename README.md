@@ -13,6 +13,7 @@ Here's my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.googl
 Via this platform I've completed the following courses:
 - Serverless Firebase Development (Application Modernization)
 - Build a Website on Google Cloud (Infrastructure Modernization)
+- Serverless Cloud Run Development (Application Modernization)
 
 
 Some of my personal projects are listed in tiles below so feel free to check them out ✨.
