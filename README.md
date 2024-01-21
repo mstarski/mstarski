@@ -21,6 +21,7 @@ Some of my personal projects are listed in tiles below so feel free to check the
 - 🐈 owner
 - I speak a bit of Japanese
 - I live in Poznań, Poland
+- I sometimes write some stuff on [pixelhat.pl](https://pixelhat.pl)
 
 <!--
 **mstarski/mstarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
